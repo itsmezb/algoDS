@@ -11,6 +11,6 @@ function changeIP(address) {
 
 
 
-const myIP1 = "1.1.302.421.43.124.12.4.42.214.1.412.124.14.2"
+const myIP1 = "1.1.302.421.43.124.12.4.42.214.1.412.124.2"
 
 console.log(changeIP(myIP1))
